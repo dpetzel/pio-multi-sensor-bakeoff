@@ -9,3 +9,6 @@ This also represents my first project since switching from Arduino IDE to Platfo
 
 ## References
 * https://registry.platformio.org/libraries/adafruit/DHT%20sensor%20library
+
+## Wiring
+![Wiring](./pio-sensor-bakeoff-wiring.png)
